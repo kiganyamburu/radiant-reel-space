@@ -11,7 +11,7 @@ const Hero = () => {
       <div className="container grid grid-cols-1 lg:grid-cols-2 gap-10 items-center py-16 md:py-24">
         <div className="space-y-6 animate-enter">
           <span className="inline-flex items-center rounded-full px-3 py-1 text-xs border border-border bg-card/60 backdrop-blur-sm">
-            React + Three.js • Smooth animations
+            Modern Web Experiences
           </span>
           <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
             3D Interactive Portfolio
