@@ -8,6 +8,10 @@
 
 There are several ways of editing your application.
 
+## Dark Theme Support
+
+This project supports both light and dark themes. You can toggle between light, dark, and system themes using the theme toggle button in the top navigation bar of the app. Your preference will be saved and applied automatically on future visits.
+
 **Use Lovable**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/90035c81-1ed0-4199-88bf-9a3d333c2d9c) and start prompting.
